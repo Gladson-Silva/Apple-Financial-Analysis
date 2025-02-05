@@ -14,7 +14,6 @@ Identificar padrões financeiros, tendências de vendas e insights sobre o desem
 - **Microsoft Excel:**  
   - Tabelas Dinâmicas  
   - Gráficos Dinâmicos  
-  - Funções avançadas para análise de dados (PROCV, SOMASE, TAXA DE CRESCIMENTO)  
   - Formatação condicional  
   - Dashboards interativos  
 
