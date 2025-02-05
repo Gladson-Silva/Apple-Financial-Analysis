@@ -39,7 +39,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 5. **Margem de Lucro (%) por Ano**
-![Gráfico de Margem de Lucro](./Graficos/grafico_receita_ano.png)
+![Gráfico de Margem de Lucro](./Graficos/lucro_ano.png)
 
 **Objetivo**: Analisar a margem de lucro da Apple ao longo do tempo, comparando o lucro líquido com a receita.  
 **Insight**: A margem de lucro permaneceu relativamente estável, com pequenas variações, destacando a eficiência operacional da Apple.
@@ -55,7 +55,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 7. **Ranking de Melhores Anos por Receita**
-![Gráfico de Ranking de Melhores Anos por Receita](./Graficos/grafico_receita_ano.png)
+![Gráfico de Ranking de Melhores Anos por Receita](./Graficos/ranking.png)
 
 **Objetivo**: Classificar os anos da Apple com a maior receita.  
 **Insight**: Os anos mais recentes, especialmente após 2020, foram os mais lucrativos, refletindo o sucesso de novos produtos e a expansão no mercado.
