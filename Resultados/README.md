@@ -63,7 +63,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 8. **Participação de Ativos em Relação aos Passivos**
-![Gráfico de Participação de Ativos e Passivos](./Graficos/grafico_receita_ano.png)
+![Gráfico de Participação de Ativos e Passivos](./Graficos/ativos_passivos.png)
 
 **Objetivo**: Analisar a estrutura de capital da Apple, verificando a participação dos ativos em relação aos passivos.  
 **Insight**: A relação mostra que a Apple tem uma estrutura de capital robusta, com ativos que superam amplamente seus passivos.
