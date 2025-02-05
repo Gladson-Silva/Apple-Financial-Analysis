@@ -31,7 +31,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 4. **Ativos Totais vs. Passivos Totais**
-![Gráfico de Ativos vs. Passivos](./Graficos/grafico_receita_ano.png)
+![Gráfico de Ativos vs. Passivos](./Graficos/ativos_totais.png)
 
 **Objetivo**: Avaliar a relação entre os ativos totais e os passivos totais.  
 **Insight**: A Apple apresenta ativos totais sempre superiores aos passivos, o que indica uma estrutura patrimonial sólida e a capacidade de honrar suas obrigações financeiras.
