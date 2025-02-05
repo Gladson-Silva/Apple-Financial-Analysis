@@ -1,49 +1,85 @@
-# 📊 Análise de Cohort - Vendas Apple  
+# 🧮 Análise de Dados Financeiros - Vendas Apple  
 
-Este projeto realiza uma **Análise de Cohort** para identificar padrões de comportamento dos clientes da Apple, utilizando exclusivamente o **Excel** para organização, análise e visualização dos dados.  
-
----
-
-## 📚 O que é Análise de Cohort?  
-
-A **Análise de Cohort** agrupa clientes com base em um evento comum, como a data da primeira compra, e acompanha seu comportamento ao longo do tempo. Essa análise é fundamental para entender a retenção de clientes e tendências de vendas.  
+Este projeto realiza uma análise de dados financeiros da Apple, utilizando exclusivamente **Microsoft Excel** para explorar tendências ao longo dos anos.
 
 ---
 
-## 🛠️ Ferramentas Utilizadas  
-
-- **Excel:** Funções avançadas, tabelas dinâmicas e gráficos.  
-
----
-
-## 🔍 Etapas da Análise  
-
-1. **Importação de Dados:** Organização das informações de vendas.  
-2. **Criação de Cohorts:** Segmentação dos clientes com base na data da primeira compra.  
-3. **Cálculo de Métricas:**  
-   - Taxa de retenção  
-   - Taxa de recompra  
-   - Tendências por período  
-4. **Visualização:**  
-   - Gráficos de linha e tabelas dinâmicas para análise das coortes.  
+## 📊 Objetivo
+Identificar padrões financeiros, tendências de vendas e insights sobre o desempenho da Apple entre os anos de **2009 a 2024**, utilizando dados históricos de EBITDA, receitas, lucros, dívida, margens e outros indicadores financeiros.
 
 ---
 
-## 🚀 Como Usar  
+## 💻 Ferramentas Utilizadas
 
-1. Abra o arquivo **Cohort_Analysis_Vendas_Apple.xlsx** no Excel.  
-2. Navegue até as abas correspondentes:  
-   - **Dados:** Contém as informações brutas de vendas.  
-   - **Análise:** Contém a segmentação e cálculos das coortes.  
-   - **Gráficos:** Visualizações interativas.  
+- **Microsoft Excel:**  
+  - Tabelas Dinâmicas  
+  - Gráficos Dinâmicos  
+  - Funções avançadas para análise de dados (PROCV, SOMASE, TAXA DE CRESCIMENTO)  
+  - Formatação condicional  
+  - Dashboards interativos  
 
-3. Atualize as tabelas dinâmicas conforme necessário.  
+---
+
+## 🔍 Dados Utilizados
+O dataset contém os seguintes campos:
+
+- Ano  
+- EBITDA (milhões)  
+- Receita total (milhões)  
+- Lucro bruto (milhões)  
+- Lucro operacional (milhões)  
+- Lucro líquido (milhões)  
+- EPS (Lucro por Ação)  
+- Total de ações emitidas  
+- Preço de fechamento anual  
+- Ativos totais (milhões)  
+- Caixa disponível (milhões)  
+- Dívida de longo prazo (milhões)  
+- Total de passivos (milhões)  
+- Margem bruta  
+- Índice P/L  
+- Número de funcionários  
+
+---
+
+## 🛠 Metodologia
+
+As seguintes análises serão conduzidas:
+
+1. **Gráficos Evolutivos:**  
+   - Tendência de Receita, Lucro Líquido e EBITDA ao longo dos anos.
+
+2. **Análise de Margens:**  
+   - Avaliação da Margem Bruta e relação entre Receita e Lucro.
+
+3. **Dívida vs. Caixa:**  
+   - Comparação entre o caixa disponível e a dívida de longo prazo.
+
+4. **Crescimento de Ativos:**  
+   - Evolução do total de ativos e passivos.
+
+5. **Indicadores Financeiros:**  
+   - Análise do índice P/L e EPS.
+
+---
+
+## 📈 Resultados Esperados
+
+- Identificação de padrões financeiros e insights sobre o crescimento da Apple.  
+- Avaliação de como eventos financeiros globais impactaram os resultados financeiros ao longo dos anos.  
+- Visualizações claras para tomada de decisões financeiras simuladas.
 
 ---
 
 ## 📄 Licença  
 
 Este projeto está sob a [MIT License](LICENSE).  
+
+---
+
+## 📝 Conclusão
+
+Este projeto busca consolidar boas práticas em análise de dados usando **Excel**, demonstrando como é possível realizar análises robustas de datasets financeiros sem a necessidade de ferramentas complexas.  
 
 ---
 
