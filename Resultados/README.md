@@ -74,7 +74,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 
 Foram criadas tabelas dinâmicas para permitir uma análise mais detalhada e flexível dos dados financeiros, facilitando a visualização de padrões e insights.
 
-### 1. **Receita Anual Total**
+### 1. **Evolução da Receita Anual Total (Revenue)**
 **Objetivo**: Somar a receita anual da Apple e avaliar sua evolução ao longo do tempo.  
 **Insight**: Permite visualizar de forma clara o crescimento ou redução da receita de um ano para outro.
 
@@ -86,11 +86,23 @@ Foram criadas tabelas dinâmicas para permitir uma análise mais detalhada e fle
 **Objetivo**: Comparar o caixa disponível com as dívidas da Apple a cada ano, para entender sua saúde financeira.  
 **Insight**: As tabelas dinâmicas destacam o montante do caixa em relação às dívidas, refletindo a capacidade de pagamento e a estabilidade financeira.
 
-### 4. **Ativos Totais vs. Passivos Totais**
+### 4. **Evolução dos Indicadores Financeiros ao Longo dos Anos**
+**Objetivo**: Comparar a evolução de múltiplos indicadores financeiros da Apple, como EBITDA e Fluxo de Caixa Operacional, para analisar o desempenho financeiro da empresa ao longo do tempo.   
+**Insight**: Os indicadores financeiros, como EBITDA e fluxo de caixa operacional, mostram uma evolução positiva e consistente. Isso reflete a capacidade da Apple de gerar lucros e manter uma operação eficiente, mesmo diante de flutuações econômicas globais. O crescimento no EBITDA, por exemplo, sugere um aumento na rentabilidade antes de impostos, enquanto o fluxo de caixa demonstra a sólida geração de caixa da empresa. 
+
+### 5. **Ranking de Melhores Anos por Receita**
+**Objetivo**: Classificar os anos da Apple com a maior receita para identificar quais períodos foram mais lucrativos e como os fatores externos influenciaram os resultados financeiros.   
+**Insight**: Os anos mais recentes, especialmente após 2020, foram os mais lucrativos para a Apple, o que pode ser atribuído ao sucesso de novos produtos e a expansão da marca em mercados emergentes. Isso demonstra a capacidade da Apple de inovar e se adaptar às necessidades dos consumidores ao longo do tempo.
+
+### 6. **Ativos Totais vs. Passivos Totais**
+**Objetivo**: Comparar os ativos totais e os passivos totais da Apple para entender a saúde financeira da empresa e sua capacidade de honrar obrigações financeiras.   
+**Insight**: A comparação entre ativos totais e passivos totais revela que a Apple tem mais ativos do que passivos, o que significa que ela está bem posicionada para enfrentar crises financeiras e continuar com o crescimento a longo prazo. A diferença positiva entre ativos e passivos indica uma boa gestão financeira e a capacidade de gerar valor para os acionistas. 
+
+### 7. **Ativos Totais vs. Passivos Totais**
 **Objetivo**: Avaliar a relação entre ativos e passivos para entender a solidez financeira da Apple.  
 **Insight**: A tabela dinâmica facilita a análise de como os ativos e passivos da empresa se comportaram ao longo dos anos.
 
-### 5. **Margem de Lucro (%) por Ano**
+### 8. **Margem de Lucro (%) por Ano**
 **Objetivo**: Calcular a margem de lucro a partir dos dados de receita e lucro líquido.  
 **Insight**: A tabela dinâmica permite uma análise rápida da rentabilidade da empresa ao longo do tempo.
 
