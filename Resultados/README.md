@@ -7,7 +7,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ## Gráficos e Análises
 
 ### 1. **Receita Anual Total**
-![Gráfico de Receita Anual](./graficos/grafico_receita_ano.png)
+![Gráfico de Receita Anual](./Graficos/grafico_receita_ano.png)
 
 **Objetivo**: Visualizar a evolução da receita anual total da Apple ao longo dos anos.  
 **Insight**: A receita teve uma tendência crescente, com variações nos anos mais recentes, especialmente a partir de 2020, refletindo o impacto de novos lançamentos e a recuperação da economia global após a pandemia.
@@ -15,7 +15,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 2. **Lucro Operacional e Lucro Líquido por Ano**
-![Gráfico de Lucro Operacional e Líquido](./graficos/grafico_lucro_operacional.png)
+![Gráfico de Lucro Operacional e Líquido](./Graficos/Lucro_Operacional_e_Lucro_Líquido_por_Ano.png)
 
 **Objetivo**: Comparar o lucro operacional e o lucro líquido da Apple a cada ano.  
 **Insight**: O lucro operacional demonstrou crescimento estável, mas o lucro líquido apresentou flutuações, principalmente devido a fatores externos como aumento de custos e impostos mais altos em alguns anos.
@@ -23,7 +23,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 3. **Caixa Disponível x Dívida por Ano**
-![Gráfico de Caixa x Dívida](./graficos/grafico_caixa_divida.png)
+![Gráfico de Caixa x Dívida](./Graficos/Caixa_DisponívelxDívida_por_Ano.png)
 
 **Objetivo**: Comparar a disponibilidade de caixa com as dívidas da Apple ao longo dos anos.  
 **Insight**: A Apple manteve um caixa robusto, com o montante em caixa sempre superior às dívidas, evidenciando sua saúde financeira e capacidade de enfrentar crises financeiras.
@@ -31,7 +31,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 4. **Ativos Totais vs. Passivos Totais**
-![Gráfico de Ativos vs. Passivos](./graficos/grafico_ativos_passivos.png)
+![Gráfico de Ativos vs. Passivos](./Graficos/grafico_receita_ano.png)
 
 **Objetivo**: Avaliar a relação entre os ativos totais e os passivos totais.  
 **Insight**: A Apple apresenta ativos totais sempre superiores aos passivos, o que indica uma estrutura patrimonial sólida e a capacidade de honrar suas obrigações financeiras.
@@ -39,7 +39,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 5. **Margem de Lucro (%) por Ano**
-![Gráfico de Margem de Lucro](./graficos/grafico_margem_lucro.png)
+![Gráfico de Margem de Lucro](./Graficos/grafico_receita_ano.png)
 
 **Objetivo**: Analisar a margem de lucro da Apple ao longo do tempo, comparando o lucro líquido com a receita.  
 **Insight**: A margem de lucro permaneceu relativamente estável, com pequenas variações, destacando a eficiência operacional da Apple.
@@ -47,7 +47,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 6. **Evolução de Indicadores Financeiros (EBITDA, Fluxo de Caixa)**
-![Gráfico de Evolução de Indicadores Financeiros](./graficos/grafico_evolucao_indicadores.png)
+![Gráfico de Evolução de Indicadores Financeiros](./Graficos/Evolução_dos_Indicadores_Financeiros_ao_Longo_dos_Anos.png)
 
 **Objetivo**: Comparar a evolução de múltiplos indicadores financeiros da Apple, incluindo EBITDA e fluxo de caixa operacional.  
 **Insight**: Ambos os indicadores mostraram um crescimento consistente, com o EBITDA refletindo um aumento nos lucros antes de impostos e o fluxo de caixa operacional indicando boa geração de caixa.
@@ -55,7 +55,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 7. **Ranking de Melhores Anos por Receita**
-![Gráfico de Ranking de Melhores Anos por Receita](./graficos/grafico_ranking_anos_receita.png)
+![Gráfico de Ranking de Melhores Anos por Receita](./Graficos/grafico_receita_ano.png)
 
 **Objetivo**: Classificar os anos da Apple com a maior receita.  
 **Insight**: Os anos mais recentes, especialmente após 2020, foram os mais lucrativos, refletindo o sucesso de novos produtos e a expansão no mercado.
@@ -63,7 +63,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ---
 
 ### 8. **Participação de Ativos em Relação aos Passivos**
-![Gráfico de Participação de Ativos e Passivos](./graficos/grafico_participacao_ativos_passivos.png)
+![Gráfico de Participação de Ativos e Passivos](./Graficos/grafico_receita_ano.png)
 
 **Objetivo**: Analisar a estrutura de capital da Apple, verificando a participação dos ativos em relação aos passivos.  
 **Insight**: A relação mostra que a Apple tem uma estrutura de capital robusta, com ativos que superam amplamente seus passivos.
