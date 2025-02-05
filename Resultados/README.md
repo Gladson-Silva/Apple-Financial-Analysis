@@ -7,7 +7,7 @@ Este repositório contém a análise financeira da Apple com base em dados hist�
 ## Gráficos e Análises
 
 ### 1. **Receita Anual Total**
-![Gráfico de Receita Anual](./graficos/grafico_receita_ano.png)
+![Gráfico de Receita Anual](./Resultados/Graficos/grafico_receita_ano.png)
 
 **Objetivo**: Visualizar a evolução da receita anual total da Apple ao longo dos anos.  
 **Insight**: A receita teve uma tendência crescente, com variações nos anos mais recentes, especialmente a partir de 2020, refletindo o impacto de novos lançamentos e a recuperação da economia global após a pandemia.
